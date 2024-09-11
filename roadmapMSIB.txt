@@ -1,2 +1,4 @@
 1. Pelajari github
 2. Pelajari API
+   -FETCH API
+   -AJAX
